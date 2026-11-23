@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-16T18:38:09.607848+00:00",
+  "generatedAt": "2026-11-23T20:18:02.439432+00:00",
   "videos": [
+    {
+      "id": "yt-zCqotpSTWVY",
+      "title": "Bob Esponja | Os Momentos Mais Assustadores do Bob Esponja 🎃 | 30 Minutos | Bob Esponja em Português",
+      "category": "Desenhos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=zCqotpSTWVY",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "Bob Esponja",
+      "attribution": "https://www.youtube.com/watch?v=zCqotpSTWVY"
+    },
+    {
+      "id": "yt-VmTYAVsfFe8",
+      "title": "Bob Esponja | 2 Horas do Plankton Agindo Fora do Normal 👁️ | Bob Esponja em Português",
+      "category": "Desenhos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=VmTYAVsfFe8",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "Bob Esponja",
+      "attribution": "https://www.youtube.com/watch?v=VmTYAVsfFe8"
+    },
+    {
+      "id": "yt-fBmcPuKnurU",
+      "title": "Bob Esponja | 1 Hora dos Melhores Episódios do Patrick da Temporada 3 de Bob Esponja 🤩 | Português",
+      "category": "Desenhos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=fBmcPuKnurU",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "Bob Esponja",
+      "attribution": "https://www.youtube.com/watch?v=fBmcPuKnurU"
+    },
+    {
+      "id": "yt-rLP7rqoEErQ",
+      "title": "Bob Esponja | Os Fantasmas Mais Assustadores do Bob Esponja 👻 | 45 Minutos | Português",
+      "category": "Desenhos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=rLP7rqoEErQ",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "Bob Esponja",
+      "attribution": "https://www.youtube.com/watch?v=rLP7rqoEErQ"
+    },
     {
       "id": "yt-sRCqTSZlwDo",
       "title": "Bob Esponja | 1 Hora do Bob Esponja na Madrugada ⛈️🌚 | Bob Esponja em Português",
@@ -1462,46 +1502,6 @@
       "attribution": "https://www.youtube.com/watch?v=BJ9VW5EiMdU"
     },
     {
-      "id": "yt-OtHtWJ9AfMo",
-      "title": "Bob Esponja | 30 minutos das comidas mais picantes do Bob Esponja! 🌶️🔥 | Bob Esponja em Português",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=OtHtWJ9AfMo",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bob Esponja",
-      "attribution": "https://www.youtube.com/watch?v=OtHtWJ9AfMo"
-    },
-    {
-      "id": "yt-BqliXlx6ge8",
-      "title": "Bob Esponja | Um minuto de cada episódio do Bob Esponja (Temporada 3)! 🧽 | Bob Esponja em Português",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=BqliXlx6ge8",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bob Esponja",
-      "attribution": "https://www.youtube.com/watch?v=BqliXlx6ge8"
-    },
-    {
-      "id": "yt-jIG1ijUER-s",
-      "title": "Bob Esponja | Momentos de Mistério do Bob Esponja por 60 Minutos! 🕵️‍♀️ | Português",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=jIG1ijUER-s",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bob Esponja",
-      "attribution": "https://www.youtube.com/watch?v=jIG1ijUER-s"
-    },
-    {
-      "id": "yt-gB9MBZNthKA",
-      "title": "Bob Esponja | Uma hora com Bob Esponja! 🧽 | Português",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=gB9MBZNthKA",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bob Esponja",
-      "attribution": "https://www.youtube.com/watch?v=gB9MBZNthKA"
-    },
-    {
       "id": "yt-oi-HG7QKCk0",
       "title": "Turma da Mônica - Origens - Trecho exclusivo",
       "category": "Desenhos",
@@ -1670,6 +1670,16 @@
       "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
       "creator": "Turma da Mônica",
       "attribution": "https://www.youtube.com/watch?v=rDPaYE3PGcg"
+    },
+    {
+      "id": "yt-UntjN5uP6cY",
+      "title": "Surviving STICKY vs SLIPPERY for 24 Hours!",
+      "category": "Educativos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=UntjN5uP6cY",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "Stay Wild",
+      "attribution": "https://www.youtube.com/watch?v=UntjN5uP6cY"
     },
     {
       "id": "yt-VdDfMCimAt0",
@@ -3162,14 +3172,24 @@
       "attribution": "https://www.youtube.com/watch?v=sBE2ngGzY7w"
     },
     {
-      "id": "yt-UGDPav41_uU",
-      "title": "EATING the World's UNHEALTHIEST Diet for 100 Hours!!",
+      "id": "yt-opn5bVFC0Cw",
+      "title": "🐶🚔 QUIZ DE DETETIVE LABRADOR | 🔊 ADIVINHE PELA VOZ | Como seria na versão DINOSSAURO? #macaquiz",
       "category": "Educativos",
       "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=UGDPav41_uU",
+      "url": "https://www.youtube.com/watch?v=opn5bVFC0Cw",
       "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Stay Wild",
-      "attribution": "https://www.youtube.com/watch?v=UGDPav41_uU"
+      "creator": "MacaQuiz",
+      "attribution": "https://www.youtube.com/watch?v=opn5bVFC0Cw"
+    },
+    {
+      "id": "yt-m31e5Q7cpWk",
+      "title": "🔫 Quiz de GTA | Só os fãs de verdade vão acertar | GTA VI | GTA V | San Andreas | Vice City #quiz",
+      "category": "Educativos",
+      "source": "youtube",
+      "url": "https://www.youtube.com/watch?v=m31e5Q7cpWk",
+      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
+      "creator": "MacaQuiz",
+      "attribution": "https://www.youtube.com/watch?v=m31e5Q7cpWk"
     },
     {
       "id": "yt-jtR9lGBzpCA",
@@ -4652,24 +4672,24 @@
       "attribution": "https://www.youtube.com/watch?v=daoZfYphDT4"
     },
     {
-      "id": "yt-yUAq49otRiA",
-      "title": "🎵 ADIVINHE A MÚSICA DO TIKTOK COM EMOJIS | Só 2,5% das pessoas acertam tudo #quiz #macaquiz",
-      "category": "Educativos",
+      "id": "yt-XEjk36SxKe4",
+      "title": "É o Baby Bluey! 🍼 💙 | 1 hora de EPISÓDIOS COMPLETOS! 💫 | Bluey Português Brasil Canal Oficial",
+      "category": "Desenhos",
       "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=yUAq49otRiA",
+      "url": "https://www.youtube.com/watch?v=XEjk36SxKe4",
       "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "MacaQuiz",
-      "attribution": "https://www.youtube.com/watch?v=yUAq49otRiA"
+      "creator": "Bluey Português Brasil",
+      "attribution": "https://www.youtube.com/watch?v=XEjk36SxKe4"
     },
     {
-      "id": "yt-CdV_XHxKtBo",
-      "title": "🔁 O QUE VOCÊ PREFERE? 🍓🥖🍚 EDIÇÃO: COMIDAS BRASILEIRAS 🟩🟨 | Jogo das escolhas | #quiz #macaquiz",
-      "category": "Educativos",
+      "id": "yt-QU5LMacoevk",
+      "title": "Vamos encontrar o Jack! 🤎 | Momentos de aventura | Bluey Português Brasil Canal Oficial",
+      "category": "Desenhos",
       "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=CdV_XHxKtBo",
+      "url": "https://www.youtube.com/watch?v=QU5LMacoevk",
       "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "MacaQuiz",
-      "attribution": "https://www.youtube.com/watch?v=CdV_XHxKtBo"
+      "creator": "Bluey Português Brasil",
+      "attribution": "https://www.youtube.com/watch?v=QU5LMacoevk"
     },
     {
       "id": "yt-6-gJUCKsBKw",
@@ -4853,7 +4873,7 @@
     },
     {
       "id": "yt-LWoiz7LNftc",
-      "title": "30 MINUTOS! | Papai Leva as Meninas para a Escola 🎒💙 | Bluey Português Brasil Canal Oficial",
+      "title": "Papai Leva as Meninas para a Escola 🎒💙 | Bluey Português Brasil Canal Oficial",
       "category": "Desenhos",
       "source": "youtube",
       "url": "https://www.youtube.com/watch?v=LWoiz7LNftc",
@@ -5903,7 +5923,7 @@
     },
     {
       "id": "yt-mTINbuZ1u80",
-      "title": "🔴 4 HORAS AO VIVO: Fazendo um bolo de pato! 🎂 💙 | De diversão com comida | Bluey Português Brasil",
+      "title": "🔴 AO VIVO: Fazendo um bolo de pato! 🎂 💙 | 4 horas de diversão com comida | Bluey Português Brasil",
       "category": "Desenhos",
       "source": "youtube",
       "url": "https://www.youtube.com/watch?v=mTINbuZ1u80",
@@ -6150,26 +6170,6 @@
       "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
       "creator": "Bluey Português Brasil",
       "attribution": "https://www.youtube.com/watch?v=kbCLTVmmcyE"
-    },
-    {
-      "id": "yt-J3yN2FUP6i8",
-      "title": "Comemorando o Dia dos Namorados com Bluey 🥰💙! | Bluey Português Brasil Canal Oficial",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=J3yN2FUP6i8",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bluey Português Brasil",
-      "attribution": "https://www.youtube.com/watch?v=J3yN2FUP6i8"
-    },
-    {
-      "id": "yt-Ja09peLQBTk",
-      "title": "Amando nossa família 💙 | 30 minutos de AMOR! | Bluey Português Brasil Canal Oficial",
-      "category": "Desenhos",
-      "source": "youtube",
-      "url": "https://www.youtube.com/watch?v=Ja09peLQBTk",
-      "rights": "Vídeo público incorporável segundo metadados YouTube; disponibilidade pode mudar",
-      "creator": "Bluey Português Brasil",
-      "attribution": "https://www.youtube.com/watch?v=Ja09peLQBTk"
     },
     {
       "id": "yt-rubJEoxoPVE",
